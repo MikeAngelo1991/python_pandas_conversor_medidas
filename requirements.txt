@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+# para intalar escribir pip install -r .\requirements.txt
+#debe tener instala antes pip
